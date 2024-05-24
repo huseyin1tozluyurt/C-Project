@@ -1,0 +1,3 @@
+huseyin34	00001111	huseyin123	Computer Organization:AA	Data Structures:AA	Logic Design:BA	Biology:FF
+Crazy	11112222	ceren123	Data Mining:CC	Data Manipulation:BC	Statistics:AA	Chemistry:FF
+Dusty	33334444	huseyinceren	Circuit Design:BB	Microcontrollers:BA	Engineering	Math:DC	Physics:FF
